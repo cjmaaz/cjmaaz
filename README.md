@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cjmaaz
-- 👀 I’m interested in Technology around me.
+- 👀 I’m interested in Tech, Science, Space and History.
 - 🌱 I’m currently learning Vue.js.
 - 💞️ I’m looking to collaborate on any JS project.
 - ✔  Here's my [resume](https://www.notion.so/Maaz-Rahman-54f930830b4c4d7e871ad263cab5954a).
