@@ -9,9 +9,13 @@
     <a href="https://github.com/cjmaaz/cjmaaz" target="_blank"><img alt="Profile Update" src="https://img.shields.io/github/last-commit/cjmaaz/cjmaaz?label=Profile%20update&style=fflat-square"></a>
 </p> 
 
-<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Hello!" style="width:10px; height: 10px;"/> -->
-<h3 align="center"> Hi, I'am Maaz Rahman! A full stack developer - very keen on learning new stuff! </h3>  
-<!-- <img align="center" alt="GIF" width="90px"  src="https://media.giphy.com/media/h0Cq1ClzO3UpupFPjP/giphy.gif"/> -->
+ 
+<h3 align="center">
+    <img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Hello!" width="30"/>
+    Hi, I'am Maaz Rahman! A full stack developer - very keen on learning new stuff!
+    <img align="center" src="https://c.tenor.com/P5DB2iGAecsAAAAi/peach-cat.gif" alt="Hello!" width="50"/>
+</h3>  
+
 
 
 - 👀 I’m interested in Tech, Science, Space and History.
@@ -25,7 +29,7 @@
     <img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=cjmaaz&&theme=jolly&show_icons=true" alt="cjmaaz"/>
 </p>
 <h3 align="center"> 
-  <img align="center" alt="GIF" width="100px"  src="https://media.giphy.com/media/sQuHLqjWwRXGvrjkg0/giphy.gif"/>
+  <img align="center" alt="GIF" width="300"  src="https://media.giphy.com/media/sQuHLqjWwRXGvrjkg0/giphy.gif"/>
 </h3>
 
 <!---
