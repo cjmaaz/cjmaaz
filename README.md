@@ -28,9 +28,6 @@
     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=cjmaaz&theme=jolly&show_icons=true" alt="Maaz's Github readme stats">
     <img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=cjmaaz&&theme=jolly&show_icons=true" alt="cjmaaz"/>
 </p>
-<h3 align="center"> 
-  <img align="center" alt="GIF" width="300"  src="https://media.giphy.com/media/sQuHLqjWwRXGvrjkg0/giphy.gif"/>
-</h3>
 
 <!---
 cjmaaz/cjmaaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
